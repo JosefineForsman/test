@@ -2,4 +2,4 @@
 
 namn: Josefine
 
-Email: josefineforsman1@gmail.com
+Epost: josefineforsman1@gmail.com
